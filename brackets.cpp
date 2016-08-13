@@ -27,7 +27,9 @@ int  brackets(int left_remaining, int right_remaining, string s){
 
 
 int main() {
-    
+    /*test input
+      3 4
+      */
     int l, r;
     //numer of left and right paranthesis 
     cin>>l>>r;

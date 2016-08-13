@@ -13,6 +13,11 @@ int count(vector <int> v, int start, int end, int k){
 }
 
 int main() {
+	/*test input
+      	15
+      	2 5 5 5 6 6 4 4 4 9 9 9 9 1 2
+      	9
+      	*/
     int n;
     cin>>n;
     vector <int> v;

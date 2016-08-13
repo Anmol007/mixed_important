@@ -24,7 +24,9 @@ double square_root(double number){
 }
 
 int main() {
-    
+    /*test input
+      2
+      */
     double num;
     cin>>num;
     double sq_rt = square_root(num);
